@@ -1,2 +1,2 @@
 
-Copyright (C) 2021 Teo Slayer
+Copyright (C) 2021 Usergy SRL
